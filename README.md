@@ -1,6 +1,6 @@
 # Olá! 😉
 
-Me chamo **Isabela Romanato**.  Estou buscando aprimorar meus conhecimentos dentro da área de Desenvolvimento de Sistemas, cursando o Ensino Técnico no **SENAI**. 📚
+Me chamo **Isabela Romanato**.  Estou buscando aprimorar meus conhecimentos dentro da área de Desenvolvimento de Sistemas, cursando o segundo semestre do Ensino Técnico no **SENAI**. 📚
 
 
 
